@@ -1,0 +1,10 @@
+CLI is an interface for more direct commands with the terminal. CLI is typically more
+difficult and is used by more experienced people. GUI is a more hands on graphical
+interface that uses images and uses easy to manage icons as a way to interact with the
+terminal. This interface is very easy to use and can be used by almost everyone. The
+advantage of using a CLI over a GUI is that the ladder has less capabilities when trying
+to get a direct command, Usually due to the straightforward concept of the interface.
+GUI is the typical interface used by the majority of users due to its straightforward
+design and utilization. CLI is used mainly by people in a computer programming field as
+a way to precisely get files and manage a terminal rather than depending on a graphical
+interface that could be less precise.
