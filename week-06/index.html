@@ -1,12 +1,30 @@
 <html>
 <title>My Website</title>
-<head>
-    My stuff
-</head>
-<body>
-    This is my website
-</body>
-<a href="page1.html">Link to page1</a>
+<style>
+    h1 {text-align: center;}
+    p {text-align: center;}
+    form {text-align: center;}
+    img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
+</style>
+<body>
+    <h1>This is my website about Guitars</h1>
+</body>
+<P align="left"><a href="index.html">Home</a></P>
+<P align="left"><a href="page1.html">Fender</a></P>
+<P align="left"><a href="page2.html">Gibson</a></P>
+
+<img src="guitar-wall.png" alt="Guitars" width="300" height="200">
+<p>
+<form action="nextPage.html" type="POST">
+    Team Fender: <input type="checkbox" id="fName"><br>
+    Team Gibson: <input type="checkbox" id="lName"><br>
+    <button id="mySubmit" type="submit">Submit</button>
+</p>
+</form>
 
 </html>
